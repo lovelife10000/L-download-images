@@ -1,5 +1,5 @@
 {
-  "name": "L-download-images",
+  "name": "@lovelife10000/jsdi",
   "version": "1.0.0",
   "description": "download-images",
   "main": "images-downloader.js",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lovelife10000/download-images.git"
+    "url": "git+https://github.com/lovelife10000/L-download-images.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lovelife10000/download-images/issues"
+    "url": "https://github.com/lovelife10000/L-download-images/issues"
   },
-  "homepage": "https://github.com/lovelife10000/download-images#readme"
+  "homepage": "https://github.com/lovelife10000/L-download-images#readme"
 }
