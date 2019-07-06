@@ -1,6 +1,6 @@
 {
   "name": "@lovelife10000/jsdi",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "download-images",
   "main": "images-downloader.js",
   "directories": {
