@@ -1,0 +1,30 @@
+{
+  "name": "download-images",
+  "version": "1.0.0",
+  "description": "download-images",
+  "main": "images-downloader.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "image-type": "^3.0.0",
+    "moment": "^2.24.0",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovelife10000/download-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovelife10000/download-images/issues"
+  },
+  "homepage": "https://github.com/lovelife10000/download-images#readme"
+}
