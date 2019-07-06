@@ -1,5 +1,5 @@
 {
-  "name": "download-images",
+  "name": "L-download-images",
   "version": "1.0.0",
   "description": "download-images",
   "main": "images-downloader.js",
